@@ -1,0 +1,7 @@
+DEPENDENCIES
+  git_cookbook
+    path: .
+    metadata: true
+
+GRAPH
+  git_cookbook (0.1.0)
