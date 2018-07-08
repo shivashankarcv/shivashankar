@@ -4,4 +4,4 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  git_cookbook (0.1.0)
+  git_cookbook (0.1.1)
